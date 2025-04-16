@@ -1,0 +1,5 @@
+[0416/193623.118:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0416/193623.118:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/prash/OneDrive/Desktop/AFT816/AFT816_CA2_Prashant_12201956/Dark_Tower/Saved/webcache_4430\Cache to C:/Users/prash/OneDrive/Desktop/AFT816/AFT816_CA2_Prashant_12201956/Dark_Tower/Saved/webcache_4430\old_Cache_000
+[0416/193623.118:ERROR:disk_cache.cc(184)] Unable to create cache
+[0416/193625.525:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0416/193817.273:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
